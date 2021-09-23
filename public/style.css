@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body{
+	font-family: 'Work Sans', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+nav{
+	padding: 20px 0px;
+}
+
+nav h1{
+	font-size: 1em;
+}
+
+nav a{
+	padding: 0px 15px;
+	color: black;
+}
+
+ion-icon{
+	position: relative;
+	top: 2px;
+}
+
+.home{
+	padding: 120px 0px;
+	background: url(https://source.unsplash.com/random);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	color: #fff;
+}
+
+.home h1{
+	font-size: 6em;
+	letter-spacing: -10px;
+	line-height: 1;
+}
+
+.home p{
+	font-size: 1.2em;
+	margin-bottom: 30px;
+}
+
+.portafolio{
+	padding-top: 60px;
+	padding-bottom: 120px;
+}
+
+.portafolio .section-title{
+	font-size: 2em;
+	margin-bottom: 30px;
+}
+
+.portafolio h3{
+	letter-spacing: -3px;
+}
+
+footer{
+	background-color: black;
+	color: white;
+
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+footer a{
+	color: yellow;
+}
+
+.footer-links{
+	margin-top: 60px;
+}
